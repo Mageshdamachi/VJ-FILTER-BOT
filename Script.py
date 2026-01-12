@@ -491,6 +491,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  If you don’t find a way to make money while you sleep,
 you will work until you die.
+
 — Warren Buffett """
 
     TELUGU_INFO = """
@@ -499,6 +500,7 @@ you will work until you die.
  మీరు నిద్రలోనే డబ్బు సంపాదించే మార్గాన్ని
 కనుగొనకపోతే,
 మీరు చనిపోయే వరకు పనిచేస్తూనే ఉంటారు.
+
 — వారెన్ బఫెట్ """
 
     HINDI_INFO = """
@@ -507,6 +509,7 @@ you will work until you die.
 अगर आप सोते समय पैसा कमाने का तरीका
 नहीं ढूंढते हैं,
 तो आप मरते दम तक काम करते रहेंगे।
+
 — वॉरेन बफेट """
 
     MALAYALAM_INFO = """
@@ -523,6 +526,7 @@ you will work until you die.
 اگر آپ سوتے وقت پیسہ کمانے کا کوئی طریقہ
 نہیں ڈھونڈتے،
 تو آپ مرنے تک کام کرتے رہیں گے۔
+
 — وارن بفیٹ """
 
     GUJARATI_INFO = """
@@ -531,6 +535,7 @@ you will work until you die.
 જો તમે ઊંઘતા સમયે પૈસા કમાવાનો માર્ગ
 ન શોધો,
 તો તમે મૃત્યુ સુધી કામ કરતા જ રહેશો.
+
 — વોરન બફેટ """
 
     KANNADA_INFO = """
@@ -539,6 +544,7 @@ you will work until you die.
  ನೀವು ನಿದ್ರಿಸುವಾಗಲೇ ಹಣ ಸಂಪಾದಿಸುವ ಮಾರ್ಗವನ್ನು
 ಕಂಡುಕೊಳ್ಳದಿದ್ದರೆ,
 ನೀವು ಸಾಯುವವರೆಗೂ ಕೆಲಸ ಮಾಡುತ್ತಲೇ ಇರುತ್ತೀರಿ.
+
 — ವಾರನ್ ಬಫೆಟ್ """
 
     BANGLADESH_INFO = """
@@ -547,6 +553,7 @@ you will work until you die.
 আপনি যদি ঘুমের মধ্যেই টাকা আয়ের উপায়
 খুঁজে না পান,
 তাহলে আপনি মৃত্যুর আগ পর্যন্ত কাজ করতেই থাকবেন।
+
 — ওয়ারেন বাফেট """
 
     RENAME_TXT = """
@@ -582,5 +589,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
 
